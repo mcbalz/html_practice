@@ -1,7 +1,9 @@
 [project]
 name = "umich-html5"
 version = "0.1.0"
-description = "Add your description here"
+description = "Coursera – Web Design for Everybody: Intro to HTML5 (UMich)"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
+
+

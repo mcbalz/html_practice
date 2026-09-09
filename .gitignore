@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# uv / Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.python-version
+dist/
+*.egg-info/
+
+# Editor
+.vscode/settings.json
+*.swp
+
+# MacOs
+.DS_Store
+._*
